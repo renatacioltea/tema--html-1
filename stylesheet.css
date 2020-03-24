@@ -1,0 +1,49 @@
+body {
+    font-family:'Times New Roman', Times, serif, Times, serif;
+    font-size:15px;
+    color:black;
+    line-height:1.6em;
+    font-weight:normal;
+    width: 500px;
+    margin:auto;
+}
+
+.navigation-bar{
+    float:right;
+  }
+
+a{
+    text-decoration:none;
+    color: #605b61;
+    font-weight: bold;
+    font-size:14px;
+    text-transform:uppercase;
+    border-bottom:5px
+}
+
+header{
+    border-bottom: 2px solid #000;
+    font-size:15px;
+    color:#605b61;  
+    
+
+}
+
+h2{
+    display:inline;
+    font-size:15px;
+    padding:5px;
+}
+
+#post-date{
+    font-style:italic;
+    color:#696969;
+    font-size:12px
+
+}
+h1{
+    font-size:16px
+}
+a:hover{
+    color:#4000ff;
+}
